@@ -1,0 +1,9 @@
+I have used the following libraries in this project: 
+(I will include all their licensing in the same folder as this readme)
+
+Aubio
+Fftw3
+PortAudio
+SDL_ttf
+SDL3
+Iir
